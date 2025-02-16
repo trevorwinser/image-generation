@@ -1,0 +1,5 @@
+**/.env/
+**/venv/
+test-2/pipeline/venv/
+repo/minimagen/
+**/Lib/site-packages/
